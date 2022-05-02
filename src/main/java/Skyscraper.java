@@ -8,7 +8,7 @@ public class Skyscraper {
     public static final String SKYSCRAPER_WAS_BUILD_DEVELOPER = "Небоскреб построен. Застройщик - ";
 
     public Skyscraper(){
-        System.out.println("Небоскреб построен.");
+        System.out.println("Небоскреб построен!");
     }
 
     public Skyscraper(int tower){
