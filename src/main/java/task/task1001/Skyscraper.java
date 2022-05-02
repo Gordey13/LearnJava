@@ -1,4 +1,4 @@
-/*
+package task.task1001;/*
 Построим новый жилой комплекс JavaRush Towers
 */
 
